@@ -19,3 +19,7 @@ homework/data/sample_submission.csv
 homework/data/Untitled.ipynb
 homework/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 homework/iris.pdf
+homework/titanic_rf.csv
+homework/titanic_lr.csv
+homework/titanic_gdbt.csv
+homework/titanic_blending.csv
